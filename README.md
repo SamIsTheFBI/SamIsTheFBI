@@ -19,7 +19,7 @@
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=GNU%20Bash&logoColor=white&style=for-the-badge&color=C57A75)
 ![Shell](https://img.shields.io/badge/-Shell-FFD500?logo=Shell&logoColor=white&style=for-the-badge&color=C6967A)
 ![C](https://img.shields.io/badge/-AD9692?logo=C&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=white&style=for-the-badge&color=C57A75)
+![C++](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=C57A75)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge&color=907788)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=C6967A)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&color=C57A75)
