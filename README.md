@@ -4,7 +4,6 @@
 🎮  🎨  🕹️  🌱  📚
 
 </div>
-<br>
   <b>
 
 - I like using & customizing Linux.
@@ -12,7 +11,6 @@
 - Fun Fact: I like playing retro games on my laptop. Definitely not because its low spec.
 
   </b>
-<br>
 
 <div align="center">
 
@@ -31,8 +29,6 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white&color=C57A75)
   
 </div>
-
-<br>
 
 <div align="center">
   <h2>Statistics</h2>
