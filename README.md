@@ -6,8 +6,8 @@
 </div>
   <b>
 
-- I like using & customizing Linux.
-- I'm learning: C.
+- I am an avid Linux user & love customizing it.
+- I'm learning C.
 - Fun Fact: I like playing retro games on my laptop. Definitely not because its low spec.
 
   </b>
@@ -29,8 +29,9 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white&color=C57A75)
   
 </div>
-
+<!--
 <div align="center">
   <h2>Statistics</h2>
   <img src="https://activity-graph.herokuapp.com/graph?username=samisthefbi&hide_border=true&hide_title=true&bg_color=00000000&color=C57A75&line=BF616A&point=ffffff&area=true"(https://github.com/ashutosh00710/github-readme-activity-graph)>
 </div>
+-->
