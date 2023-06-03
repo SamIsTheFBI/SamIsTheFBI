@@ -7,15 +7,15 @@
 	
   - Interested in **Web Development**.
 
-  - Have written codes in **C, C++, Java, JavaScript, CSS, HTML**.
+  - Have written codes in **C, C++, Python, Java, JavaScript, CSS, HTML**.
 	
-  - Familiar with **ReactJS, NodeJS, TailwindCSS**.
+  - Familiar with frameworks like **ReactJS, NodeJS, TailwindCSS**.
 
 - ***Tools of trade***
   
-  - Using ***Neovim*** as primary text editor/IDE on Arch Linux.
+  - Using **Neovim** as primary text editor/IDE on Arch Linux.
   
-  - Pushing commits & `npm`-ing with my ***Zsh***-powered build of [simple terminal](https://github.com/SamIsTheFBI/st).
+  - Pushing commits & `npm`-ing with my **Zsh**-powered build of [simple terminal](https://github.com/SamIsTheFBI/st).
 
 - ***More about me***
   
