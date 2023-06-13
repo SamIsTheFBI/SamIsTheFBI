@@ -27,4 +27,4 @@
 
   - Email: `shivamshekharsoy@gmail.com`
 
-  - Discord: `SamIsTheFBI#7998`
+  - Discord: `samisthefbi`
