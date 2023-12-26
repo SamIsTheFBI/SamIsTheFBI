@@ -1,7 +1,7 @@
 <div align="center">
 <samp>
 
-# ════ Hi! I'm Shivam ════
+# Hi! I'm Shivam.
 ###### 『 Web Development ◉ Terminal-friendly ◉ archbtw 』
 
 </samp>
