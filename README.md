@@ -1,7 +1,7 @@
 <div align="center">
 <samp>
 
-# Hi! I'm Shivam.
+# Hi! I'm [Shivam](https://samisthefbi.github.io/).
 ###### 『 Web Development ◉ Terminal-friendly ◉ archbtw 』
 
 </samp>
@@ -9,8 +9,9 @@
 </div><br />
 
 <div align="center">
+<samp><b>▼ SKILLSET 🛠️</b></samp><br />
 <samp>
-<b><ins>FRAMEWORKS</ins></b>: NodeJS • ReactJS • NextJS • Astro • ExpressJS • TailwindCSS • Mantine
+<b><ins>FRAMEWORKS/LIBRARIES</ins></b>: NodeJS • ReactJS • NextJS • Astro • TailwindCSS • Mantine
 <br /><b><ins>LANGUAGES</ins></b>: JavaScript • TypeScript • Bash • C++ • C • Python
 <br /><b><ins>TOOLS</ins></b>: Docker • Git • cURL • Postman • Linux 
 </samp>
